@@ -103,7 +103,7 @@ def main():
 
 
 if __name__ == "__main__":
-    print("Main func started")
+    print("Game is starting...")
     main()
 
 
